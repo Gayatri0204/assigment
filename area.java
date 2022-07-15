@@ -14,7 +14,7 @@ class area {
     }
 
     public static void main(String arg[]) {
-        area a = new area(9);
+        area a = new area(90);
         area a1 = new area(20, 14);
     }
 }

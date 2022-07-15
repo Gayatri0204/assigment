@@ -4,7 +4,7 @@ class a {
     int rollno;
 
     void acc() {
-        rollno = 39;
+        rollno = 30;
 
     }
 }
